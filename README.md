@@ -6,11 +6,9 @@
 
 Deploy your own datalab !
 
-Catalog of services             |  My lab
-:-------------------------:|:-------------------------:
-![](readme-catalog.jpg)  |  ![](readme-lab.jpg)
-
-
+|   Catalog of services   |       My lab        |
+| :---------------------: | :-----------------: |
+| ![](readme-catalog.jpg) | ![](readme-lab.jpg) |
 
 This app is used at [Insee](https://insee.fr).  
 This is the Web UI. See [Onyxia-API](https://github.com/inseefrlab/onyxia-api) for the server part.
